@@ -17,7 +17,7 @@ int main(void) {
     f = 0;
     l = n - 1;
 
-    while (f <= 1) {
+    while (f <= l) {
         m = (f+l)/2;
         if (x == arr1[m]) {
             flag = 1;
