@@ -1,0 +1,3 @@
+/home/avasam/CODE-J/W3_Searching_Prblm1/cmake-build-debug/CMakeFiles/W3_Searching_Prblm1.dir
+/home/avasam/CODE-J/W3_Searching_Prblm1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/avasam/CODE-J/W3_Searching_Prblm1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
